@@ -1,0 +1,14 @@
+.section{
+    background-image: url('https://i.pinimg.com/1200x/b2/44/9d/b2449db35d63d9c9bc388ec9878e64e8.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 86vh;
+    width: 100vw;
+    text-align: center;
+    color: white;
+}
+.hero-text{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+}
